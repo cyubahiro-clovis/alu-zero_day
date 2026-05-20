@@ -1,1 +1,1 @@
- This is the git directory in my repo
+This is the git directory in my Repo
